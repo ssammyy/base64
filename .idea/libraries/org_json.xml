@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="org.json">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Documents/APP/libs/org.json.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/APP/libs/gson-2.8.2.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/APP/libs/json-20160810.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/APP/libs/json-simple-1.1.1.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/APP/libs/org-apache-commons-lang.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/APP/libs/org-apache-commons-codec.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
